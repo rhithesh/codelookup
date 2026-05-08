@@ -16,3 +16,6 @@ python -m build
 # The username is always __token__ when using an API key
 TWINE_USERNAME=__token__ TWINE_PASSWORD=pypi-YOUR_TOKEN_HERE twine upload dist/*
 ```
+<br>
+Something great to read about implements custom kernels<br>
+https://github.com/vllm-project/vllm/pull/2192
