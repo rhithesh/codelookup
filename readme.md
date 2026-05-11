@@ -19,3 +19,5 @@ TWINE_USERNAME=__token__ TWINE_PASSWORD=pypi-YOUR_TOKEN_HERE twine upload dist/*
 <br>
 Something great to read about implements custom kernels<br>
 https://github.com/vllm-project/vllm/pull/2192
+gemma4 architecture
+https://www.youtube.com/watch?v=_A367W_qvc8&list=WL&index=1&t=500s
