@@ -21,3 +21,8 @@ Something great to read about implements custom kernels<br>
 https://github.com/vllm-project/vllm/pull/2192
 gemma4 architecture
 https://www.youtube.com/watch?v=_A367W_qvc8&list=WL&index=1&t=500s
+
+
+<br>
+
+Every time you know a you have added a new github key make sure you efresh your known hosts.
