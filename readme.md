@@ -26,3 +26,13 @@ https://www.youtube.com/watch?v=_A367W_qvc8&list=WL&index=1&t=500s
 <br>
 
 Every time you know a you have added a new github key make sure you efresh your known hosts.
+
+<br>
+pyrightconfig.json
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "extraPaths": [
+    "."
+  ]
+}
